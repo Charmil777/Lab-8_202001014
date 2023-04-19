@@ -1,4 +1,4 @@
-# Lab 8 (IT 314)
+# Lab 8 - Software engineering
 # Name - Dev Patel
 # ID - 202001014
 
